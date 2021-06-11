@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623432001 source:d:\oio\projects\design\code\c\mine\start.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+	<cs50.c>
+
